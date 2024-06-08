@@ -1,7 +1,4 @@
 # calculadoraIMC
 
-Texto alterado no repositório local
-
-Texto alterado via github web.
-
-Alterando pelo repositório clone
+[Acesse a versão ao vivo aqui]
+(https://fabiovgc.github.io/calculadoraIMC/)
